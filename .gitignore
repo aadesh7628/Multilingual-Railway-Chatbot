@@ -1,0 +1,10 @@
+# Ignore Python virtual environment
+venv/
+*.pyc
+__pycache__/
+
+# Ignore secrets
+*.json  # If you have API keys in JSON, don't commit them!
+
+# Ignore environment variables
+.env

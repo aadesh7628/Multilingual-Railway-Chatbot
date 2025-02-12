@@ -1,0 +1,231 @@
+1)  English: Which trains are available from New Delhi to Mumbai?
+    Hindi: नई दिल्ली से मुंबई के लिए कौन-कौन सी ट्रेनें उपलब्ध हैं?
+    Bengali: নতুন দিল্লি থেকে মুম্বাই পর্যন্ত কোন ট্রেনগুলি পাওয়া যায়?
+    Telugu: న్యూఢిల్లి నుండి ముంబైకి ఎలాంటి రైళ్లు అందుబాటులో ఉన్నాయి?
+    Marathi: नवी दिल्लीहून मुंबईला कोणत्या गाड्या उपलब्ध आहेत?
+    Tamil: புதிய டெல்லியிலிருந்து மும்பைக்கு எந்த ரெயில்கள் கிடைக்கின்றன?
+    Urdu: نئی دہلی سے ممبئی کے لیے کون سی ٹرینیں دستیاب ہیں؟
+    Gujarati: નવી દિલ્હીથી મુંબઈ માટે કઈ ટ્રેનો ઉપલબ્ધ છે?
+    Kannada: ನವದೆಹಲಿಯಿಂದ ಮುಂಬೈಗೆ ಯಾವ ರೈಲುಗಳು ಲಭ್ಯವಿವೆ?
+    French: Quels trains sont disponibles de New Delhi à Mumbai ?
+    Spanish: ¿Qué trenes están disponibles de Nueva Delhi a Mumbai?
+    German: Welche Züge sind von Neu-Delhi nach Mumbai verfügbar?
+    Italian: Quali treni sono disponibili da Nuova Delhi a Mumbai?
+    Portuguese: Quais trens estão disponíveis de Nova Délhi para Mumbai?
+    Russian: Какие поезда доступны из Нью-Дели в Мумбаи?
+    Japanese: ニューデリーからムンバイへの利用可能な列車は何ですか？
+    Korean: 뉴델리에서 뭄바이로 가는 기차는 무엇이 있습니까?
+    Chinese: 从新德里到孟买有哪些可用的列车？
+    Arabic: ما هي القطارات المتاحة من نيودلهي إلى مومباي؟
+
+
+
+
+2)  English: What is the ticket price for Rajdhani Express from Mumbai to New Delhi?
+    Hindi: मुंबई से नई दिल्ली के लिए राजधानी एक्सप्रेस का टिकट मूल्य क्या है?
+    Bengali: মুম্বাই থেকে দিল্লি যাওয়ার জন্য রাজধানী এক্সপ্রেসের টিকিটের দাম কত?
+    Telugu: ముంబై నుండి న్యూఢిల్లి వరకు రాజధాని ఎక్స్‌ప్రెస్ టికెట్ ధర ఎంత?
+    Marathi: राजधानी एक्स्प्रेसचे मुंबई ते नवी दिल्ली तिकीट दर किती आहे?
+    Tamil: மும்பையிலிருந்து டெல்லி செல்ல ராஜதானி எக்ஸ்பிரஸின் டிக்கெட் விலை என்ன?
+    Urdu: ممبئی سے نئی دہلی کے لیے راجدھانی ایکسپریس کا ٹکٹ کی قیمت کیا ہے؟
+    Gujarati: મુંબઈથી નવી દિલ્હીની રાજધાની એક્સપ્રેસની ટિકિટની કિંમત કેટલી છે?
+    Kannada: ಮುಂಬೈಯಿಂದ ನವದೆಹಲಿಗೆ ರಾಜಧಾನಿ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ಟಿಕೆಟ್ ದರ ಎಷ್ಟು?
+    Malayalam: മുംബൈയിൽ നിന്ന് ഡെൽഹിയിലേക്കുള്ള രാജധാനി എക്സ്പ്രസിന്റെ ടിക്കറ്റിന്റെ വില എന്താണ്?
+    French: Quel est le prix du billet pour le Rajdhani Express de Mumbai à New Delhi ?
+    Spanish: ¿Cuál es el precio del billete del Rajdhani Express de Mumbai a Nueva Delhi?
+    German: Wie hoch ist der Ticketpreis für den Rajdhani Express von Mumbai nach Neu-Delhi?
+    Italian: Qual è il prezzo del biglietto per il Rajdhani Express da Mumbai a Nuova Delhi?
+    Portuguese: Qual é o preço do bilhete Rajdhani Express de Mumbai para Nova Deli?
+    Russian: Какова стоимость билета на поезд Rajdhani Express из Мумбаи в Нью-Дели?
+    Japanese: ムンバイからニューデリーまでのラージダーニーエクスプレスのチケット料金はいくらですか？
+    Korean: 뭄바이에서 뉴델리까지 라지다니 익스프레스 티켓 가격은 얼마인가요?
+    Chinese: 从孟买到新德里的拉吉达尼快车票价是多少？
+    Arabic: ما هي تكلفة تذكرة قطار راجدھاني إكسبرس من مومباي إلى نيودلهي؟
+
+
+
+3)  English: What platform does Chennai Superfast arrive at?
+    Hindi: चेन्नई सुपरफास्ट किस प्लेटफॉर्म पर आती है?
+    Bengali: চেন্নাই সুপারফাস্ট কোন প্ল্যাটফর্মে আসে?
+    Telugu: చెన్నై సూపర్‌ఫాస్ట్ ఎటువంటి ప్లాట్‌ఫారమ్‌కి వస్తుంది?
+    Marathi: चेन्नई सुपरफास्ट कोणत्या प्लॅटफॉर्मवर येते?
+    Tamil: சென்னை சூப்பர்பாஸ்ட் எந்த தளத்தில் வருகிறது?
+    Urdu: چنئی سپرفاسٹ کس پلیٹ فارم پر آتی ہے؟
+    Gujarati: ચેન્નાઈ સુપરફાસ્ટ કયા પ્લેટફોર્મ પર આવે છે?
+    Kannada: ಚೆನ್ನೈ ಸೂಪರ್‌ಫಾಸ್ಟ್ ಯಾವ ವೇದಿಕೆಗೆ ಬರುವುದಾಗಿದೆ?
+    Malayalam: ചെന്നൈ സൂപ്പർഫാസ്റ്റ് ഏത് പ്ലാറ്റ്ഫോമിൽ എത്തും?
+    French: Sur quelle plateforme arrive le Chennai Superfast ?
+    Spanish: ¿En qué plataforma llega el Chennai Superfast?
+    German: Auf welchem Gleis kommt der Chennai Superfast an?
+    Italian: Su quale binario arriva il Chennai Superfast?
+    Portuguese: Em qual plataforma chega o Chennai Superfast?
+    Russian: На какой платформе прибывает Chennai Superfast?
+    Japanese: チェンナイスーパーファストはどのプラットフォームに到着しますか？
+    Korean: 첸나이 슈퍼패스트는 어떤 플랫폼에 도착합니까?
+    Chinese: 钦奈超快抵达哪个平台？
+    Arabic: على أي رصيف يصل تشيناي سوبرفاست؟
+
+
+
+4)  English: What is the distance from Bangalore to Mysore by Mysore Express train?
+    Hindi: मैसूर एक्सप्रेस द्वारा बैंगलोर और मैसूर के बीच की दूरी कितनी है?
+    Bengali: মাইসোর এক্সপ্রেসে বেঙ্গালুরু থেকে মাইসোরের দূরত্ব কত?
+    Telugu: మైసూర్ ఎక్స్‌ప్రెస్ ద్వారా బెంగుళూరు నుండి మైసూర్ మధ్య దూరం ఎంత?
+    Marathi: मैसूर एक्सप्रेसद्वारे बंगळुरू ते मैसूर यांच्यातील अंतर किती आहे?
+    Tamil: மைசூர் எக்ஸ்பிரஸ் மூலம் பெங்களூரு மற்றும் மைசூருக்கு இடையிலான தூரம் என்ன?
+    Urdu: میسور ایکسپریس کے ذریعے بنگلور اور میسور کے درمیان فاصلہ کتنا ہے؟
+    Gujarati: મૈસુર એક્સપ્રેસ દ્વારા બેંગલોર અને મૈસુર વચ્ચેનું અંતર કેટલું છે?
+    Kannada: ಮೈಸೂರು ಎಕ್ಸ್‌ಪ್ರೆಸ್ ರೈಲಿನಲ್ಲಿ ಬೆಂಗಳೂರಿನಿಂದ ಮೈಸೂರಿಗೆ ಇರುವ ಅಂತರ ಎಷ್ಟು?
+    Malayalam: മൈസൂർ എക്സ്പ്രസിലൂടെ ബംഗളൂരും മൈസൂരിനും ഇടയിലുള്ള ദൂരമെത്ര?
+    French: Quelle est la distance entre Bangalore et Mysore par le Mysore Express ?
+    Spanish: ¿Cuál es la distancia entre Bangalore y Mysore en el Mysore Express?
+    German: Wie weit ist die Strecke zwischen Bangalore und Mysore mit dem Mysore Express?
+    Italian: Qual è la distanza tra Bangalore e Mysore con il Mysore Express?
+    Portuguese: Qual é a distância entre Bangalore e Mysore pelo Mysore Express?
+    Russian: Каково расстояние между Бангалором и Майсором на поезде Mysore Express?
+    Japanese: マイソールエクスプレス列車でバンガロールからマイソールまでの距離はどれくらいですか?
+    Korean: 마이소르 익스프레스를 통해 방갈로르와 마이소르 간의 거리는 얼마입니까?
+    Chinese: 通过迈索尔特快列车，班加罗尔到迈索尔之间的距离是多少？
+    Arabic: ما هي المسافة بين بنغالور ومايسور بواسطة قطار مايسور إكسبرس؟
+
+
+5)  English: What time does Shatabdi Express departures from Delhi?
+    Hindi: शताब्दी एक्सप्रेस दिल्ली से कब निकलती है?
+    Bengali: শতাব্দী এক্সপ্রেস দিল্লি থেকে কখন ছাড়ে?
+    Telugu: శతాబ్ది ఎక్స్‌ప్రెస్ ఢిల్లీ నుండి ఎప్పుడు బయలుదేరుతుంది?
+    Marathi: शताब्दी एक्सप्रेस दिल्लीहून केव्हा सुटते?
+    Tamil: சதாப்தி எக்ஸ்பிரஸ் டெல்லியில் இருந்து எப்போது புறப்படும்?
+    Urdu: شتابدی ایکسپریس دہلی سے کتنے بجے روانہ ہوتی ہے؟
+    Gujarati: શતાબ્દી એક્સપ્રેસ દિલ્હીથી ક્યારે નીકળે છે?
+    Kannada: ದೆಹಲಿಯಿಂದ ಶತಾಬ್ದಿ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ಯಾವ ಸಮಯದಲ್ಲಿ ಹೊರಡುತ್ತದೆ?
+    Malayalam: ഷതാബ്ദി എക്സ്പ്രസ്സ് ഡെൽഹിയിൽ നിന്ന് എപ്പോൾ പുറപ്പെടും?
+    French: À quelle heure le Shatabdi Express part-il de Delhi ?
+    Spanish: ¿A qué hora sale Shatabdi Express de Delhi?
+    German: Um wie viel Uhr fährt der Shatabdi Express von Delhi los?
+    Italian: A che ora parte da Delhi lo Shatabdi Express?
+    Portuguese: Quando é que o Shatabdi Express sai de Deli?
+    Russian: Во сколько отправляется поезд Shatabdi Express из Дели?
+    Japanese: シャターブディエクスプレスはデリーから何時に出発しますか？
+    Korean: 샤타브디 익스프레스는 델리에서 몇 시에 출발합니까?
+    Chinese: Shatabdi Express何时从 德里 出发？
+    Arabic: متى يغادر شتابدي إكسبرس من دلهي؟
+
+6)  English: Show me the available trains from Chennai station to Bangalore station?
+    Hindi: मुझे चेन्नई और बैंगलोर के बीच ट्रेनें दिखाएं?
+    Bengali: আমাকে চেন্নাই এবং বেঙ্গালুরু এর মধ্যে ট্রেনগুলো দেখান।
+    Telugu: నాకు చెన్నై మరియు బెంగళూరు మధ్య రైళ్లు చూపించండి?
+    Marathi: मला चेन्नई आणि बंगळुरू यांच्यातील ट्रेन दाखवा.
+    Tamil: எனக்கு சென்னை மற்றும் பெங்களூரு இடையே உள்ள ரயில்களை காட்டுங்கள்?
+    Urdu: مجھے چنئی اور بنگلور کے درمیان ٹرینیں دکھائیں؟
+    Gujarati: મને ચેન્નાઈ અને બેંગલોર વચ્ચે ટ્રેનો બતાવો.
+    Kannada: ನನಗೆ ಚೆನ್ನೈ ಮತ್ತು ಬೆಂಗಳೂರು ನಡುವೆ ರೈಲುಗಳನ್ನು ತೋರಿಸಿ?
+    Malayalam: എനിക്ക് ചെന്നൈയും ബെംഗളൂരുവും തമ്മിലുള്ള ട്രെയിനുകൾ കാണിക്കുക?
+    French: Montrez-moi les trains entre Chennai et Bangalore ?
+    Spanish: Muéstrame los trenes entre Chennai y Bangalore.
+    German: Zeig mir die Züge zwischen Chennai und Bangalore.
+    Italian: Mostrami i treni tra Chennai e Bangalore.
+    Portuguese: Mostre-me os trens entre Chennai e Bangalore.
+    Russian: Покажите мне поезда между Ченнаем и Бангалором.
+    Japanese: チェンナイとバンガロールの間の列車を見せてください。
+    Korean: 첸나이와 방갈로르 간의 기차를 보여주세요.
+    Chinese: 给我展示一下从金奈到班加罗尔的列车。
+    Arabic: أرني القطارات بين تشيناي وبنغالور؟
+
+7)  English: At what time does Patna Express train arrives at Kolkata?
+    Hindi: पटना एक्सप्रेस ट्रेन कोलकाता किस समय पहुँचती है?
+    Bengali: পাটনা এক্সপ্রেস ট্রেন কখন কলকাতায় আসে?
+    Telugu: పాట్నా ఎక్స్‌ప్రెస్ రైలు కోల్‌కతాకు ఏ సమయంలో వస్తుంది?
+    Marathi: पाटणा एक्सप्रेस ट्रेन कोलकाता येथे किती वाजता पोहोचते?
+    Tamil: பாட்னா எக்ஸ்பிரஸ் ரயில் எந்த நேரத்தில் கொல்கத்தாவை வந்தடைகிறது?
+    Urdu: پٹنہ ایکسپریس ٹرین کس وقت کولکتہ پہنچتی ہے؟
+    Gujarati: પટના એક્સપ્રેસ ટ્રેન કયા સમયે કોલકાતા પહોંચે છે?
+    Kannada: ಪಾಟ್ನಾ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ರೈಲು ಕೋಲ್ಕತ್ತಾಗೆ ಯಾವ ಸಮಯದಲ್ಲಿ ಆಗಮಿಸುತ್ತದೆ?
+    Malayalam: പട്‌ന എക്‌സ്പ്രസ് ട്രെയിൻ ഏത് സമയത്താണ് കൊൽക്കത്തയിൽ എത്തുന്നത്?
+    French: À quelle heure le train Patna Express arrive-t-il à Calcutta ?
+    Spanish: ¿A qué hora llega el tren Patna Express a Calcuta?
+    German: Um wie viel Uhr kommt der Patna Express-Zug in Kalkutta an?
+    Italian: A che ora arriva il treno Patna Express a Calcutta?
+    Portuguese: A que horas chega o comboio Patna Express a Calcutá?
+    Russian: В какое время поезд Patna Express прибывает в Калькутту?
+    Japanese: パトナエクスプレス列車は何時にコルカタに到着しますか?
+    Korean: 파트나 익스프레스 열차는 언제 콜카타에 도착합니까?
+    Chinese: 巴特那特快火车什么时候抵达加尔各答？
+    Arabic: في أي وقت يصل قطار باتنا إكسبريس إلى كولكاتا؟
+
+8) Which platform does Pune Duronto arrive at in Mumbai?
+
+9) What is the fare from Delhi to Jaipur by Shatabdi Express?
+
+10) English: Tell me about Gujarat Mail?
+    Hindi: मुझे गुजरात मेल के बारे में बताएं?
+    Bengali: আমাকে গুজরাট মেইলের সম্পর্কে বলুন।
+    Telugu: నాకు ગુજરાત మెయిల్ గురించి చెప్పండి?
+    Marathi: मला गुजरात मेल बद्दल सांगा?
+    Tamil: எனக்கு குஜராத் மெயில் பற்றி சொல்லுங்கள்?
+    Urdu: مجھے گجرات میل کے بارے میں بتائیں؟
+    Gujarati: મને ગુજરાત મેઈલ વિશે કહો?
+    Kannada: ನನಗೆ ಗುಜರಾತ್ ಮೇಲ್ ಬಗ್ಗೆ ಹೇಳಿ?
+    Malayalam: എനിക്ക് ഗുജറാത്ത് മെയിൽ பற்றி പറയൂ?
+    French: Parlez-moi du Gujarat Mail.
+    Spanish: Háblame sobre el Gujarat Mail.
+    German: Erzählen Sie mir vom Gujarat Mail.
+    Italian: Parlami del Gujarat Mail.
+    Portuguese: Fale-me sobre o Gujarat Mail.
+    Russian: Расскажите мне о Gujarat Mail.
+    Japanese: グジャラートメールについて教えてください。
+    Korean: 구자라트 메일에 대해 말해 주세요.
+    Chinese: 告诉我有关古吉拉特邮件的情况。
+    Arabic: أخبرني عن بريد غوجارات؟
+
+12) English: Show me the available trains from Kolkata station to Chennai station?
+    Hindi: मुझे कोलकाता स्टेशन से चेन्नई स्टेशन तक उपलब्ध ट्रेनें दिखाएं?
+
+
+11) General queries:
+    "How do I book a tatkal ticket?"
+    "What are the rules for ticket cancellation?"
+
+
+
+1) 
+English- What is the ticket price of the Rajdhani Express train from Mumbai station to Delhi station?
+Hindi- मुंबई स्टेशन से दिल्ली स्टेशन तक राजधानी एक्सप्रेस ट्रेन की टिकट की कीमत क्या है?
+Kannada- ಮುಂಬೈ ನಿಲ್ದಾಣದಿಂದ ದೆಹಲಿ ನಿಲ್ದಾಣಕ್ಕೆ ರಾಜಧಾನಿ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ರೈಲಿನ ಟಿಕೆಟ್ ದರ ಎಷ್ಟು?
+Urdu- ممبئی اسٹیشن سے دہلی اسٹیشن تک راجدھانی ایکسپریس ٹرین کے ٹکٹ کی قیمت کیا ہے؟
+Marathi- मुंबई स्टेशन ते दिल्ली स्टेशन पर्यंत राजधानी एक्सप्रेस ट्रेन च्या तिकिटाची किंमत किती आहे?
+Tamil- மும்பை ஸ்டேஷனில் இருந்து டெல்லி ஸ்டேஷனுக்கு ராஜதானி எக்ஸ்பிரஸ் ரயிலின் டிக்கெட் விலை என்ன?
+French- Quel est le prix du billet du train Rajdhani Express de la gare de Mumbai à la gare de Delhi ?
+Italian- Qual è il prezzo del biglietto del treno Rajdhani Express dalla stazione di Mumbai alla stazione di Delhi?
+Japanese- ムンバイ駅からデリー駅までのラジダニ・エクスプレス列車のチケットの値段はいくらですか?
+
+
+
+2) 
+English- How far the distance does the Vande Bharat Express train travel from Chennai to Bangalore?
+Hindi- चेन्नई से बैंगलोर तक वंदे भारत एक्सप्रेस की दूरी कितनी है?
+
+
+
+3)
+English- What is the arrival time of the Jan Shatabdi Express at Pune station?
+Hindi- जन शताब्दी एक्सप्रेस का पुणे स्टेशन पर आगमन समय क्या है?
+Kannada- ಜನ ಶತಾಬ್ದಿ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ಯಾವ ಸಮಯಕ್ಕೆ ರೈಲು ಮಾಡುತ್ತದೆ ಪುಣೆ ನಿಲ್ದಾಣ ತಲುಪುವುದೇ?
+Urdu- پونے اسٹیشن پر جن شتابدی ایکسپریس کی آمد کا وقت کیا ہے؟
+Marathi- जनशताब्दी एक्सप्रेसची पुणे स्टेशनवर येण्याची वेळ किती आहे?
+Tamil- புனே நிலையத்திற்கு ஜன் சதாப்தி எக்ஸ்பிரஸ் வரும் நேரம் என்ன?
+French- Quelle est l'heure d'arrivée du Jan Shatabdi Express à la gare de Pune ?
+Italian- Qual è l'orario di arrivo del Jan Shatabdi Express alla stazione di Pune?
+
+4)
+English- On which platform Goa Express will arrive in Pune?
+Hindi- गोवा एक्सप्रेस पुणे में किस प्लेटफॉर्म पर आएगी?
+Kannada- ಗೋವಾ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ಯಾವ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ನಲ್ಲಿ ಪುಣೆಗೆ ಆಗಮಿಸುತ್ತದೆ? 
+Urdu- گوا ایکسپریس ٹرین کس پلیٹ فارم پر پونے اسٹیشن پہنچے گی؟ 
+Marathi- गोवा एक्सप्रेस पुण्यात कोणत्या प्लॅटफॉर्मवर येईल?
+Tamil- கோவா எக்ஸ்பிரஸ் ரயில் எந்த பிளாட்பாரத்தில் புனே வந்து சேரும்?
+French- Sur quel quai arrive le train Goa Express à Pune ?
+Italian- Su quale binario arriva il treno Goa Express a Pune?
+Japanese- ゴア エクスプレスはどのプラットフォームでプネーに到着しますか?
+Punjabi- ਗੋਆ ਐਕਸਪ੍ਰੈਸ ਟਰੇਨ ਪੁਣੇ ਸਟੇਸ਼ਨ ਦੇ ਕਿਹੜੇ ਪਲੇਟਫਾਰਮ 'ਤੇ ਪਹੁੰਚੇਗੀ?
+German- Auf welchem ​​Bahnsteig im Bahnhof Pune kommt der Goa Express an?
+Korean- 고아 익스프레스 열차는 푸네 역의 어느 플랫폼에 도착합니까?
